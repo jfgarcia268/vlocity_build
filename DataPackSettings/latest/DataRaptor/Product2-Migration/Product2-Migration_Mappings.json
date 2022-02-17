@@ -273,7 +273,7 @@
         "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
         "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Product2:%vlocity_namespace%__AttributeAssignment__c",
         "%vlocity_namespace%__FilterOperator__c": "LIMIT",
-        "%vlocity_namespace%__FilterValue__c": "500",
+        "%vlocity_namespace%__FilterValue__c": "200",
         "%vlocity_namespace%__InterfaceFieldAPIName__c": "",
         "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 5,
         "%vlocity_namespace%__InterfaceObjectName__c": "%vlocity_namespace%__AttributeAssignment__c",
